@@ -1,4 +1,4 @@
-# dashboard-data
+# Aplicacion web
 Aqui se llevara acabo el dashboard para la visualizacion de los resultados que surgen del proceso de mineria de datos para el proyecto terminal.
 ## Project setup
 ```
